@@ -6,3 +6,14 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+/* header {
+  height: 20vh;
+  width: 100vw;
+  background-color: #eef;
+  border-radius: 0 0 10px 10px;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+} */
